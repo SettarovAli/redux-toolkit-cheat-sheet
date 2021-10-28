@@ -1,0 +1,39 @@
+{
+  "bugs": [
+    {
+      "id": 1,
+      "description": "Bug 1",
+      "userId": 1,
+      "resolved": true
+    },
+    {
+      "id": 2,
+      "description": "Bug 2",
+      "userId": 2,
+      "resolved": true
+    },
+    {
+      "id": 3,
+      "description": "Bug 3",
+      "userId": 2,
+      "resolved": false
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "fullName": "Ali Settarov",
+      "bugs": []
+    },
+    {
+      "id": 2,
+      "fullName": "Alina Rak",
+      "bugs": []
+    },
+    {
+      "bugs": [],
+      "fullName": "Settar Settarov",
+      "id": 3
+    }
+  ]
+}
